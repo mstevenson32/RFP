@@ -7,11 +7,11 @@ The Opportunities
 •	IT Infrastructure – Improvement opportunities like capacity, stability, security, and performance
 •	IT Leadership – Improvement opportunities like aligned strategies, company performance, and satisfaction
 OUR PROPOSAL – AUDIT AND ADJUST
-Litex Industries, Ltd. has a well-deserved reputation for quality customer service. However, faced with changes in environments and systems from recent mergers and acquisitions (M&A), overall company growth, and any other existing limitations that prevent taking full advantage of improvements in technology, Litex Industries, Ltd. faces the possibility of limited growth and higher company risk. We propose a full internal IT audit to analyze and suggest short-term and long-term recommendations that fit the strategic goals of Litex leadership.
+Company has a well-deserved reputation for quality customer service. However, faced with changes in environments and systems from recent mergers and acquisitions (M&A), overall company growth, and any other existing limitations that prevent taking full advantage of improvements in technology, Company faces the possibility of limited growth and higher company risk. We propose a full internal IT audit to analyze and suggest short-term and long-term recommendations that fit the strategic goals of Company leadership.
 Technical/Project Approach
-Managing IT is about managing risk. Our risk averse approach uses a mix of experience, managerial, technical, and project management skills to audit and evaluate the Litex information technology environment(s) and team(s). Additionally, using standards-based tools and techniques (where applicable) to promote unified environments. Information systems standards often include a high level of complexity that spans a large range of disciplines. For example, the Project Management Institute (PMI) has sets of standards but are usually targeted towards larger enterprise environments to be a good fit. If applicable other standards that are good fits will be recommended along with any professional training.
+Managing IT is about managing risk. Our risk averse approach uses a mix of experience, managerial, technical, and project management skills to audit and evaluate the Company information technology environment(s) and team(s). Additionally, using standards-based tools and techniques (where applicable) to promote unified environments. Information systems standards often include a high level of complexity that spans a large range of disciplines. For example, the Project Management Institute (PMI) has sets of standards but are usually targeted towards larger enterprise environments to be a good fit. If applicable other standards that are good fits will be recommended along with any professional training.
 Resources & Environment
-Existing IT and Litex senior leadership resources are in place. Any additional resource needs that arise must be documented and sent in for approval before any execution. Existing IT environment is providing production services for four Litex locations:
+Existing IT and Company senior leadership resources are in place. Any additional resource needs that arise must be documented and sent in for approval before any execution. Existing IT environment is providing production services for four Litex locations:
 Addresses
 Project Deliverables
 Deliverable	Description
@@ -36,13 +36,13 @@ Wireless Local Area Networks (WLAN) by site: Similar to LAN analysis by using fr
 •	Detecting anomalies for areas of potential poor performance
 •	Identifying specific switch and router interfaces with high utilization before issues arise
 •	Highlighting usage of older less-secure connection protocols (i.e. wireless encryption protocols (WEP))
-Domain Name Services (DNS) by environment: Similar to LAN analysis by using free or low-cost LAN analysis tools for network discovery of each Litex DNS server or Internet facing DNS system to analyze current configurations in the infrastructure.
+Domain Name Services (DNS) by environment: Similar to LAN analysis by using free or low-cost LAN analysis tools for network discovery of each Company DNS server or Internet facing DNS system to analyze current configurations in the infrastructure.
 •	Providing insight for the DNS configuration
 •	Highlighting how many DNS servers or partners are in use
 •	Evaluating DNS performance
 •	Listing DNS record types and verifying external IP addressing
 •	Evaluate in-house versus vendor managed DNS strategies
-Security Analysis by environment: Using open source and available tools for light penetration testing of the Litex external network
+Security Analysis by environment: Using open source and available tools for light penetration testing of the Company external network
 •	Verifies the expected external IP addressing and DNS environments
 •	Review current critical IT infrastructure security and patching levels
 •	Review router configuration and logging procedures
@@ -55,15 +55,15 @@ IT Infrastructure Network Diagrams	Diagrams for current network environments: Ne
 •	WLAN diagrams by site
 IT Team Minimum Requirements	After performing surveys, some analysis, discussions, and knowing the infrastructure, IT minimum requirements can be analyzed. For example, one area of responsibility will be core network systems and operations. Hardware could be near or past support, but the IT team resources are capable of handling. Additionally, hardware could be near or past support, but external resources may be necessary for one-time install then hand off daily operations and support to the internal team. Even another scenario is when the IT team has zero knowledge and the external team has to conduct an install and own support for the short or long-term whatever is decided best for the environment.
 Existing critical IT systems and any gaps would be certifications, training or role filling opportunities. Based on cost benefit analysis, team members individual goals, and the timing for any training multiple option paths will be available. Usually existing resources running at 100% are not available for training until their loads can be lightened. Additionally, other resources are happy as-is and do not desire career path changes or challenges for growth.
-IT External Dependencies	After performing surveys, some analysis, discussions, and knowing the infrastructure, then comparing how much is relying on external dependencies can a strategic discussion be explored for the risks and rewards for any adjustments. For example, the current JDE consultant in Chicago is very good, knows the environment very well but may also be a single point of failure high risk without any documentation to rely on. All areas where current external dependencies are in place will be analyzed and discussed. This also applies where external dependencies are level 2 and level 3 escalation points. If a level 1 resource is only responsible to call up level 2 then there are opportunities for training to troubleshoot or other ways to increase efficiencies.
+IT External Dependencies	After performing surveys, some analysis, discussions, and knowing the infrastructure, then comparing how much is relying on external dependencies can a strategic discussion be explored for the risks and rewards for any adjustments. For example, the current consultant is very good, knows the environment very well but may also be a single point of failure high risk without any documentation to rely on. All areas where current external dependencies are in place will be analyzed and discussed. This also applies where external dependencies are level 2 and level 3 escalation points. If a level 1 resource is only responsible to call up level 2 then there are opportunities for training to troubleshoot or other ways to increase efficiencies.
 IT Cloud Analysis	Cloud is still a scary topic for many organizations. In recent years the guaranteed uptimes have gone up while costs have normalized. Instead of paying for 97% uptime annually the trends are getting over 99% and higher but are always flexible in contract terms and infrastructure design. After performing surveys, some analysis, discussions, and knowing the infrastructure and contracts for licensing, strategic discussions can be explored for opportunities in areas to increase efficiencies and IT systems flexibility. The timing can vary depending on enterprise agreements with large partners like Microsoft, IBM etc.
-IT Unification Strategy	Short-Term and Long-Term IT Unification Strategies: Usually towards the end of the engagement term (sometimes earlier) an official Guidance report with strategies combined with information and output from earlier analysis is presented to unify the current Litex IT environment under one qualified individual with updated IT organizational chart and, if necessary, recommend proposed employees.
+IT Unification Strategy	Short-Term and Long-Term IT Unification Strategies: Usually towards the end of the engagement term (sometimes earlier) an official Guidance report with strategies combined with information and output from earlier analysis is presented to unify the current IT environment under one qualified individual with updated IT organizational chart and, if necessary, recommend proposed employees.
 Timeline for Execution
 Key project dates are outlined below. Dates are best-guess estimates and are subject to change until a contract is executed.
 Description	Start Date	End Date	Duration
-Project Start	5/25/2018	TBD	520 Hours
+Project Start	TBD	520 Hours
 Supplied Materials
-The following materials are to be supplied by Client for this project. For Company, LLP  to meet project goals, this material must be supplied on schedule.
+The following materials are to be supplied by Client for this project. For Company  to meet project goals, this material must be supplied on schedule.
 Materials to be supplied by Client.
 Due Date*
 Any existing company and IT org charts	DATE
